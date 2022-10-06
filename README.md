@@ -8,7 +8,7 @@ Follow the Getting Started guide and build websites with Tailwind CSS. Also, fol
 
 1.  Clone the repository
 
-         git clone https://github.com/ProgrammerShri/React-Boilerplate.git {{ your project name }}
+         git clone https://github.com/ProgrammerShri/React-Boilerplate.git
 
     Alternately you can download the zip file and unzip it.
 
